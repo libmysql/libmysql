@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/4cf64f5265509a28f5c2204d585c790be55b7d84/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
