@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="[[https://steamuserimages-a.akamaihd.net/ugc/1647717732051043506/7D8434C7A8C4238C2A6DAAF83360A803B45CD07A/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.gifer.com/4EHq.gif)](https://i.gifer.com/4EHq.gif)"  />
+  <img height="350" src="https://64.media.tumblr.com/392d4d0ebd2d30061520025b0a3c8bc1/tumblr_peegcnaYhq1td6f30o2_400.gif"  />
 </div>
 
 ###
@@ -20,9 +20,9 @@
 
 ###
 
-- 🌱 I’m currently learning **Next.js and advanced JavaScript**
+- 🌱 I’m currently learning backend (PHP, Node.js), frameworks, and frontend technologies like React, Next.js, TypeScript, etc.**
 
-- 📫 How to reach me **[Your Email Here]**
+- 📫 How to reach me **[wianofreshad@gmail.com]**
 
 ###
 
