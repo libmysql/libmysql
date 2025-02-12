@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="[https://steamuserimages-a.akamaihd.net/ugc/1647717732051043506/7D8434C7A8C4238C2A6DAAF83360A803B45CD07A/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.gifer.com/4EHq.gif)"  />
+  <img height="350" src="[[https://steamuserimages-a.akamaihd.net/ugc/1647717732051043506/7D8434C7A8C4238C2A6DAAF83360A803B45CD07A/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.gifer.com/4EHq.gif)](https://i.gifer.com/4EHq.gif)"  />
 </div>
 
 ###
