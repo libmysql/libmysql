@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning backend (PHP, Node.js), frameworks, and frontend technologies like React, Next.js, TypeScript, etc.**
 
-- 📫 How to reach me **[wianofreshad@gmail.com]**
+- 📫 How to reach me **[libmysql.dll@gmail.com]**
 
 ###
 
